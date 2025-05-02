@@ -1,1 +1,6 @@
 msg : welcome to ashok it
+class  Login {
+    public static void main(String[] args){
+    System.out.println("Hello welcome to ashok it");
+    }
+}
